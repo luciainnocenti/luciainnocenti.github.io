@@ -9,8 +9,15 @@ redirect_from:
 ---
 **HI, I'M LUCIA!**
 
-Always passionate about technology and the future, I graduated in computer engineering and I am pursuing the MSc in Data Science at Politecnico di Torino. 
-In parallel with my studies, I always look for new experiences that allow me to complete my profile and that excite me. As Data Science student, I'm facing both classical Machine Learning and Deep Learning algorithms, and I've also attended courses about Optimization, Decision Making Processes, Network Dynamics and Big Data, experiencing Spark and Hadoop. 
+As a data scientist with a Master's degree in data science and engineering, I am passionate about solving real-world problems using machine/deep learning and multi-disciplinary knowledge. I enjoy finding simple solutions to complex problems. 
+
+My journey in data science has been fueled by curiosity and a desire to make a tangible difference. I've honed my expertise in developing and implementing optimized deep learning strategies, particularly within the healthcare domain, where I've contributed to projects aimed at accelerating diagnosis and improving patient outcomes. I'm fascinated by the potential of AI to revolutionize various fields, from medical diagnostics to optimizing complex systems.
+
+I believe that a good model is not only evaluated by its predictive accuracy, but also by its efficient use of resources and its fairness. I'm deeply committed to ethical and responsible AI practices, recognizing the importance of data privacy and governance.
+
+Beyond my technical skills, I'm a firm believer in the power of collaboration and clear communication. I excel at working within cross-functional teams, bridging the gap between technical and non-technical stakeholders, and ensuring that complex concepts are readily understood by all.
+
+I'm eager to continue pushing the boundaries of what's possible with AI and data science. I'm seeking opportunities to collaborate with like-minded individuals, contribute to groundbreaking projects, and ultimately, make a positive impact on the world.
 
 You can contact me via [email](mailto:lucia.innocenti@outlook.it) or <a href="https://www.linkedin.com/in/lucia-innocenti/" target="_blank">linkedin</a>.
 
@@ -24,9 +31,10 @@ You can contact me via [email](mailto:lucia.innocenti@outlook.it) or <a href="ht
 <tr>
   <td colspan="4" style="border:none !important" >
   <ul style="list-style-type:none; padding:0">
-    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Machine Learning </li>
-    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Deep Learning </li>
-    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Optimization methods and Decision Making </li>
+    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Machine Learning & Deep Learning </li>
+    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> AI in Healthcare </li>
+    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Real-world Problem Solving </li>
+    <li style="margin-bottom: 15px;"> <i class="fas fa-circle"></i> Ethical & Responsible AI </li>
   </ul>
   </td>
   <td colspan="4" style="border:none !important" >
