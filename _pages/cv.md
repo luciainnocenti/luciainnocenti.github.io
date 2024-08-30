@@ -11,24 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Data science, INRIA, ongoing
 * M.Sc. in Data Science and Engineering, Politecnico di Torino, 2022
 * B.Sc. in Computer Engineering, Politecnico di Torino, 2019
 
 Work experience
 ======
-* **Jun22 - Jun25: Ph.D. Student @INRIA Sophia Antipolis**
-  *  Multi-centric AI-based framework for prostate cancer patients management on active surveillance through robust federated learning
-      * Developed cost-effective collaborative AI models
-      * Enhanced trust in AI patient care
-      * Focused on robust federated learning
-    * Research engineering Fed-BioMed
-      * Collaborate to the deployment of the open-source platform for medical federated learning 
+* **Jun22 - Jun24: Research assistant @INRIA Sophia Antipolis**
+  *   Developed and implemented optimized collaborative deep learning strategies, significantly reducing training time and bandwidth usage.
+  *   Analyzed diverse medical datasets and trained deep learning models for tasks like classification, segmentation, and survival analysis.
+  *   Presented research findings to technical and non-technical audiences.
+      *   **Key Points:** Federated learning, deep learning optimization, medical image analysis, effective communication.
 
-* **Oct21 - Mar22: Master's Thesis Researcher @University of Karlsruhe**
-  *  Master's thesis in the "High-Performance Humanoid Technologies" team, working on the topic of "Audio-Video Activity Recognition System for a Humanoid Cobot"
-    * Work with real-time visual and audio data
-    * Deploy graph neural network based machine learning models
+* **Oct21 - Mar22: Student Research Assistant @University of Karlsruhe**
+  *   Developed and trained a real-time human activity classification system using graph convolutional networks and natural language processing.
+  *   Processed and analyzed video and audio data for rapid activity recognition.
+      *   Key Points: Graph neural networks, real-time data processing, multi-modal learning, human activity recognition.
   
 * **Oct20 - Oct21: Part-time Collaborator @PoliTo**
   * At the Politecnico di Torino, the collaborator helps the professor in teaching activities, especially during practice laboratories.
@@ -37,8 +34,9 @@ Work experience
     *  **Bionformatics**, focusing on basic programming skills and Deep Learning and Machine Learning.
 
 * **Oct19 - Feb20: Information Risk Managment intern @KPMG**
-  * [KPMG](https://home.kpmg/xx/en/home.html) is an Anglo-Dutch multinational professional services network, and one of the Big Four accounting organizations.
-  * Duties included: Support in Balance Sheet audit activities through IT controls testing; Data Analysis Projects and dashboards development
+  *   Collaborated with a team to collect and analyze client data, identify patterns, and generate actionable insights.
+  *   Developed data visualizations to communicate findings effectively.
+      *   Key Points: Data analysis, data visualization, client collaboration, communication skills.
 
 * **Oct17 - Mar18: General Director @JEToP**
   * [JEToP](https://jetop.com/en/) - Junior Enterprise Torino Politecnico
