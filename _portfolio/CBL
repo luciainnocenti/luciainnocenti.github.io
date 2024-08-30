@@ -1,0 +1,13 @@
+---
+title: "Benchmarking Collaborative Learning Methods Cost-Effectiveness"
+excerpt: "Designed and implemented optimized cost-effectiveness of collaborative deep learning strategies, resulting in substantial reductions in training time (3-10x) and bandwidth usage (5-20x). [Code here](https://github.com/luciainnocenti/CBL-vs-FL)"
+collection: portfolio
+---
+
+This project aimed at investigating how hospitals can collaborate to build better AI models without sharing sensitive patient data.
+We compared traditional methods (Federated Learning - FL) with a newer, potentially more efficient approach (Consensus-Based Learning - CBL) on a wide range of collaborative medical data analysis scenarios. 
+Our findings showed that CBL can be just as accurate than FL, but with significant savings in time and computing power, making AI development more accessible for smaller institutions. 
+This study opens a novel perspective on the deployment of collaborative AI in real-world applications, whereas the adoption of cost-effective methods is instrumental to achieve sustainability 
+and democratisation of AI by alleviating the need for extensive computational resources.
+
+The papers related to this projects are available [here](https://www.biorxiv.org/content/10.1101/2024.05.27.596048v1.full.pdf) and [here](https://arxiv.org/pdf/2309.17097).
