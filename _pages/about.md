@@ -11,11 +11,11 @@ redirect_from:
 
 As a data scientist with a Master's degree in data science and engineering, I am passionate about solving real-world problems using machine/deep learning and multi-disciplinary knowledge. I enjoy finding simple solutions to complex problems. 
 
-My journey in data science has been fueled by curiosity and a desire to make a tangible difference. I've honed my expertise in developing and implementing optimized deep learning strategies, particularly within the healthcare domain, where I've contributed to projects aimed at accelerating diagnosis and improving patient outcomes. I'm fascinated by the potential of AI to revolutionize various fields, from medical diagnostics to optimizing complex systems.
+My journey in data science has been fueled by curiosity and a desire to make a tangible difference. I've sharpened my expertise in developing and implementing optimized deep learning strategies, particularly within the healthcare domain, where I've contributed to projects to accelerate diagnosis and improve patient outcomes. I'm fascinated by the potential of AI to revolutionize various fields, from medical diagnostics to optimizing complex systems.
 
-I believe that a good model is not only evaluated by its predictive accuracy, but also by its efficient use of resources and its fairness. I'm deeply committed to ethical and responsible AI practices, recognizing the importance of data privacy and governance.
+I believe that a good model is not only evaluated by its predictive accuracy but also by its efficient use of resources and its fairness. I'm deeply committed to ethical and responsible AI practices, recognizing the importance of data privacy and governance.
 
-Beyond my technical skills, I'm a firm believer in the power of collaboration and clear communication. I excel at working within cross-functional teams, bridging the gap between technical and non-technical stakeholders, and ensuring that complex concepts are readily understood by all.
+Beyond my technical skills, I firmly believe in the power of collaboration and clear communication. I excel at working within cross-functional teams, bridging the gap between technical and non-technical stakeholders, and ensuring that all readily understand complex concepts.
 
 I'm eager to continue pushing the boundaries of what's possible with AI and data science. I'm seeking opportunities to collaborate with like-minded individuals, contribute to groundbreaking projects, and ultimately, make a positive impact on the world.
 
