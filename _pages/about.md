@@ -9,7 +9,7 @@ redirect_from:
 ---
 **HI, I'M LUCIA!**
 
-As a data scientist with a Master's degree in data science and engineering, I am passionate about solving real-world problems using machine/deep learning and multi-disciplinary knowledge. I enjoy finding simple solutions to complex problems. 
+Data scientist with a Master's degree in data science and engineering. I am passionate about solving real-world problems using machine/deep learning and multi-disciplinary knowledge. I enjoy finding simple solutions to complex problems. 
 
 My journey in data science has been fueled by curiosity and a desire to make a tangible difference. I've sharpened my expertise in developing and implementing optimized deep learning strategies, particularly within the healthcare domain, where I've contributed to projects to accelerate diagnosis and improve patient outcomes. I'm fascinated by the potential of AI to revolutionize various fields, from medical diagnostics to optimizing complex systems.
 
